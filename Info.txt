@@ -1,0 +1,7 @@
+Lib Ref:
+1. Excel Reader/Writer: 
+	https://github.com/gSerP1983/OpenXml.Excel.Data
+
+2. Http Helper
+
+3. Logging
